@@ -29,3 +29,14 @@ You can explore the code in the project to see how it's done and customize it ac
 
 <hr><br>
 If this project has been of assistance to you, I kindly request that you consider giving it a ⭐
+
+## Directory Overview
+
+```
+├── public                 - public content, served as is  
+└── src
+  ├─ app
+  ├─ components
+  ├─ lib
+  └─ styles
+```

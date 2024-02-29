@@ -1,5 +1,5 @@
-import DemoSlider from "./_components/DemoSlider";
-import dataSlider from "./_data/slider-data.json";
+import DemoSlider from "@/src/components/DemoSlider";
+import dataSlider from "./data/slider-data.json";
 
 export default function Home() {
   return (
