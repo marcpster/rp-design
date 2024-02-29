@@ -11,3 +11,7 @@
   transform: scale(2);
   transform-origin: center;
 }
+
+.swiper .dummy {
+  transform: scale(3);
+}
