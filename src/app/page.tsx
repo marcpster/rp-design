@@ -1,4 +1,4 @@
-import ImageSlider from "@/src/components/ImageSlider";
+import ImageSlider from "@/components/ImageSlider";
 import dataSlider from "./data/slider-data.json";
 
 export default function Home() {
